@@ -1,0 +1,26 @@
+lightweight tag bc3b87d796adf79f91f37a055225778a473d6bfb v1.7.2
+Author:	Greg Perrott <greg@perrott.net.nz>
+Date:	Wed Jan 9 13:14:21 2019 +1300
+
+commit bc3b87d796adf79f91f37a055225778a473d6bfb
+Author: Greg Perrott <greg@perrott.net.nz>
+Date:   Wed Jan 9 13:14:21 2019 +1300
+
+    Changed version 1.7.2
+
+commit 96bf95c58c50be203e92e2bc5689104ba44b2547
+Author: Greg Perrott <greg@perrott.net.nz>
+Date:   Wed Jan 9 13:13:01 2019 +1300
+
+    FIX: Attempt to index field seasonBest
+    
+    Fixes #17
+
+commit 5843fae66376fe6f85aecfb45f39040030fa24b5
+Author: Greg Perrott <greg@perrott.net.nz>
+Date:   Wed Jan 9 13:09:50 2019 +1300
+
+    FIX: Attempt to index field overtime
+    
+    Fixes #16
+
